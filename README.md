@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0219-contains-duplicate-ii) |
 ## Counting
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
