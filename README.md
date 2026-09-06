@@ -22,6 +22,7 @@
 | [0283-move-zeroes](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -38,12 +39,14 @@
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -93,6 +97,7 @@
 | [0219-contains-duplicate-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Counting
 |  |
 | ------- |
