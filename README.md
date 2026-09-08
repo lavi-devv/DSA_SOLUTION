@@ -24,6 +24,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0268-missing-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Counting
 |  |
 | ------- |
