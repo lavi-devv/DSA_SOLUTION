@@ -25,6 +25,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +125,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
