@@ -30,10 +30,12 @@
 | [0485-max-consecutive-ones](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0014-longest-common-prefix) |
+| [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
 ## Counting
 |  |
 | ------- |
