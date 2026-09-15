@@ -31,6 +31,7 @@
 | [0495-teemo-attacking](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0506-relative-ranks) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
