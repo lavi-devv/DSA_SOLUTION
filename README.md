@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0027-remove-element) |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
@@ -141,6 +143,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
