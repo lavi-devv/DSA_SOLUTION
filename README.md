@@ -16,6 +16,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -126,6 +127,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0219-contains-duplicate-ii) |
@@ -175,6 +177,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
