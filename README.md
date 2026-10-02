@@ -17,6 +17,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0219-contains-duplicate-ii) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
 | [0463-island-perimeter](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
@@ -195,4 +198,16 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0506-relative-ranks) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
