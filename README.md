@@ -44,6 +44,7 @@
 | [0496-next-greater-element-i](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0506-relative-ranks) |
+| [1480-running-sum-of-1d-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
