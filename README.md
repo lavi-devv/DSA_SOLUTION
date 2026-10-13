@@ -20,6 +20,7 @@
 | [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -120,6 +121,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
