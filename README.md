@@ -23,6 +23,7 @@
 | [0045-jump-game-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -85,6 +86,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0268-missing-number) |
 ## Sorting
@@ -191,6 +193,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
