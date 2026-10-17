@@ -24,6 +24,7 @@
 | [0046-permutations](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0049-group-anagrams) |
 | [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
@@ -96,6 +98,7 @@
 | [0016-3sum-closest](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0217-contains-duplicate) |
@@ -140,6 +143,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0219-contains-duplicate-ii) |
