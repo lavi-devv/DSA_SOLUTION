@@ -26,6 +26,7 @@
 | [0048-rotate-image](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -201,10 +202,12 @@
 | [0036-valid-sudoku](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0495-teemo-attacking) |
 ## Stack
 |  |
