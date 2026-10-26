@@ -53,6 +53,7 @@
 | [0496-next-greater-element-i](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0561-array-partition) |
 | [1480-running-sum-of-1d-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
@@ -113,6 +114,7 @@
 | [0414-third-maximum-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0561-array-partition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0045-jump-game-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
 | ------- |
@@ -243,4 +246,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
