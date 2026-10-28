@@ -54,6 +54,7 @@
 | [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0566-reshape-the-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
@@ -213,11 +214,13 @@
 | [0048-rotate-image](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0566-reshape-the-matrix) |
 ## Stack
 |  |
 | ------- |
