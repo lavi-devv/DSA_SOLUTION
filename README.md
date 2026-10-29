@@ -55,6 +55,7 @@
 | [0506-relative-ranks](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0575-distribute-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
@@ -164,6 +165,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0575-distribute-candies) |
 ## Counting
 |  |
 | ------- |
