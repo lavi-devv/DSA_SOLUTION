@@ -57,6 +57,7 @@
 | [0566-reshape-the-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0594-longest-harmonious-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
@@ -83,6 +84,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0506-relative-ranks](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0594-longest-harmonious-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
