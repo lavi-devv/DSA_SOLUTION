@@ -38,6 +38,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
@@ -113,6 +115,7 @@
 | [0056-merge-intervals](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0349-intersection-of-two-arrays) |
@@ -204,6 +207,7 @@
 | [0045-jump-game-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0561-array-partition) |
 ## Quicksort
