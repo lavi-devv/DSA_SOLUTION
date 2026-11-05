@@ -30,6 +30,7 @@
 | [0055-jump-game](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0118-pascals-triangle) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0068-text-justification) |
 | [0179-largest-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
 ## Trie
@@ -236,6 +238,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0068-text-justification) |
 | [0495-teemo-attacking](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0566-reshape-the-matrix) |
 ## Stack
