@@ -37,6 +37,7 @@
 | [0119-pascals-triangle-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0179-largest-number) |
@@ -168,6 +169,7 @@
 | [0036-valid-sudoku](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0219-contains-duplicate-ii) |
@@ -273,4 +275,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0561-array-partition) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
