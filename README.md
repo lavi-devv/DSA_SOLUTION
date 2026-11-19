@@ -42,6 +42,7 @@
 | [0074-search-a-2d-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0118-pascals-triangle) |
@@ -80,6 +81,7 @@
 | [0014-longest-common-prefix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0179-largest-number) |
 | [0500-keyboard-row](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0500-keyboard-row) |
 ## Trie
@@ -244,6 +246,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -261,6 +264,7 @@
 | [0064-minimum-path-sum](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0566-reshape-the-matrix) |
 ## Simulation
@@ -295,6 +299,7 @@
 | [0047-permutations-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
