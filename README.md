@@ -46,6 +46,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0118-pascals-triangle) |
@@ -179,6 +180,7 @@
 | [0055-jump-game](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -270,6 +272,7 @@
 | [0073-set-matrix-zeroes](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0566-reshape-the-matrix) |
 ## Simulation
@@ -285,12 +288,14 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/lavi-devv/DSA_SOLUTION/tree/master/0496-next-greater-element-i) |
 ## Heap (Priority Queue)
 |  |
